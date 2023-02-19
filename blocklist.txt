@@ -15,7 +15,7 @@ trackjs.com
 adform.net
 kampanjat.is.fi/vauva-feed-box/
 ap-cdn.sanomagames.com/isfi-embeddings/index.html
-widgets.playpilot.com/collection/
+*.playpilot.com/*
 vg.is.fi/iltapulu-is-etusivu/
 vg.is.fi/otty-is-etusivu/
 er.sanoma-sndp.fi/v2/stats
