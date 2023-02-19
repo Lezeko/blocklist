@@ -15,6 +15,7 @@ trackjs.com
 adform.net
 kampanjat.is.fi/vauva-feed-box/
 ap-cdn.sanomagames.com/isfi-embeddings/index.html
+ap-cdn.sanomagames.com/*
 *.playpilot.com/*
 vg.is.fi/iltapulu-is-etusivu/
 vg.is.fi/otty-is-etusivu/
@@ -28,3 +29,6 @@ er.sanoma-sndp.fi/*
 adnami.io
 abtasty.com
 securemetrics.apple.com
+widgets.playpilot.com/*
+widgets.playpilot.com
+kampanjat.is.fi
