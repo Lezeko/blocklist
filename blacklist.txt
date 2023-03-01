@@ -11,7 +11,6 @@ googletagmanager.com
 er.sanoma-sndp.fi/v2/stats
 events.il.fi
 ap-cdn.sanomagames.com
-ap-cdn.sanomagames.com*
 ap-cdn.sanomagames.com/*
 ads.pubmatic.com
 google-analytics.com
@@ -22,14 +21,12 @@ trackjs.com
 adform.net
 kampanjat.is.fi/vauva-feed-box/
 kampanjat.is.fi/*
-kampanjat.is.fi*
 ap-cdn.sanomagames.com/isfi-embeddings/index.html
 ap-cdn.sanomagames.com/*
 *.playpilot.com/*
 vg.is.fi/iltapulu-is-etusivu/
 vg.is.fi/otty-is-etusivu/
 vg.is.fi/*
-vg.is.fi*
 er.sanoma-sndp.fi/v2/stats
 speedcurve.com
 adnxs.com
@@ -43,3 +40,19 @@ securemetrics.apple.com
 widgets.playpilot.com/*
 widgets.playpilot.com
 kampanjat.is.fi
+
+
+
+##Snapchat
+0.0.0.0 ads.snapchat.com
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 accounts.snapchat.com
+0.0.0.0 geofilters.snapchat.com
+0.0.0.0 forbusiness.snapchat.com
+0.0.0.0 business.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 businesshelp.snapchat.com
+0.0.0.0 snapcamera.snapchat.com
+0.0.0.0 snapads.com
+0.0.0.0 snapkit.com
+0.0.0.0 app-analytics.snapchat.com
