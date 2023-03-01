@@ -55,11 +55,5 @@ kampanjat.is.fi
 0.0.0.0 snapads.com
 0.0.0.0 snapkit.com
 0.0.0.0 app-analytics.snapchat.com
-
-# Testi
 0.0.0.0 aws.duplex.snapchat.com
 0.0.0.0 gtq.sct.sc-prod.net
-*.sc-gw.com
-*.sc-gw.com
-api.snapchat.com
-*.api.snapchat.com
