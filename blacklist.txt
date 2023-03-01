@@ -6,7 +6,6 @@ adnxs.com
 edge.adobedc.net
 vg.is.fi
 er.sanoma-sndp.fi/*
-er.sanoma-sndp.fi*
 googletagmanager.com
 er.sanoma-sndp.fi/v2/stats
 events.il.fi
