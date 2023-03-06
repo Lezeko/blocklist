@@ -3260,8 +3260,6 @@ kampanjat.is.fi
 0.0.0.0 v9-vn.tiktokcdn.com
 0.0.0.0 vas.tiktokcdn.com
 0.0.0.0 vas-alisg16.tiktokcdn.com
-0.0.0.0 www.tiktokcdn.com
-0.0.0.0 tiktokv.com
 0.0.0.0 api.tiktokv.com
 0.0.0.0 api-core-va.tiktokv.com
 0.0.0.0 api-h2.tiktokv.com
