@@ -3042,7 +3042,6 @@ kampanjat.is.fi
 0.0.0.0 v.tiktok.com
 0.0.0.0 vm.tiktok.com
 0.0.0.0 vt.tiktok.com
-0.0.0.0 www.tiktok.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 bkbd-awsjp16-up-va.tiktokcdn.com
 0.0.0.0 bkbd-maliva16-up-va.tiktokcdn.com
